@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/Genairus/chronos/releases/download/v0.1.0/chronos-windows-x86_64.zip",
-      "hash": "sha256:20eabde7d1c4526420973ab6d192cf13c824daa45132d789426506e286c33102",
+      "hash": "sha256:2d7e13c774f8822a5298849f696e2f8f2341049704a18f83eda66a5fc99f664d",
       "bin": "chronos.exe"
     }
   },
